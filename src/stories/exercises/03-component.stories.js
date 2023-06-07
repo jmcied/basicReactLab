@@ -7,15 +7,15 @@ export default {
 };
 
 export const Basic = () => {
-  const name = "MSc Enterprise Software Systems";
+  const name = "HDip in Computer Science";
   const twoModules = [
     {
-      name: "Cloud Architecture",
-      noLectures: 1,
+      name: "DevOps",
+      noLectures: 2,
       noPracticals: 2,
     },
     {
-      name: "Enterprise Web Dev",
+      name: "Full Stack Web Dev",
       noLectures: 2,
       noPracticals: 3,
     },
